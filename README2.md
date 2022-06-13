@@ -4,6 +4,6 @@
 
 ## purpose
 
-##deploy
+## deploy
 
 ## how to
